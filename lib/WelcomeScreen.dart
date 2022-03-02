@@ -8,7 +8,7 @@ import 'package:image_picker/image_picker.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 
-class WelcomeScreen extends StatefulWidget {
+class WelcomexxScreen extends StatefulWidget {
   WelcomeScreen({Key key}) : super(key: key);
   @override
   _WelcomeScreenState createState() => _WelcomeScreenState();
