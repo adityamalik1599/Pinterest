@@ -1,4 +1,4 @@
-# upload_pictures
+# Pinterest
 
 A new Flutter application.
 
